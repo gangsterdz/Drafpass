@@ -1,4 +1,8 @@
 # Drafpass
+Download:
+git clone https://github.com/gangsterdz/Drafpass
+
+Description:
 
 free password generator for educational purposes
 
